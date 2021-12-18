@@ -1,0 +1,50 @@
+body,
+html {
+	margin: 5%;
+	background-color: #fff7f3;
+}
+
+.photo img {
+	display: table;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.photo-caption {
+	color: #fa9fb5;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	}
+
+.title {
+	color: #c51b8a;
+	font-family: 'Bison', sans-serif;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.byline {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: normal;
+}
+
+.information {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: normal;
+}
+
+.footer {
+	text-align: center;
+	color: #fff7f3;
+	background-color: #c51b8a;
+	border-style: double;
+	border-width: 5px;
+	padding: 10px;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: normal;
+	font-size: 12px;	
+}
